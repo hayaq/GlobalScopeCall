@@ -1,8 +1,9 @@
 GlobalScopeCall
 ===============
 
-jquery風にグローバルスコープでの処理の実行を行うマクロ
-  
+jquery風にグローバルスコープでの処理の実行を行うマクロ  
+function()はただのかざり
+
 ```cpp
 #include <stdio.h>
 #include "jquery.h"
